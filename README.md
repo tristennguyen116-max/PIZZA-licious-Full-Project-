@@ -169,6 +169,7 @@ Same method call, completely different behavior -- that is polymorphism.
 
 ## Class Diagram
 
+<img width="845" height="983" alt="WIP_PizzaClassMap_TN" src="https://github.com/user-attachments/assets/f4fdaa0e-a166-4a34-9e2b-7c896da2abf6" />
 
 ```
 Pizza  <--- MargheritaPizza
