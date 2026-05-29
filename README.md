@@ -1,6 +1,6 @@
 # PIZZAlicious - Point of Sale Application
 
-A Java console-based point of sale application for PIZZA-licious, a custom pizza shop.
+A Java console-based (CLI) point of sale application for PIZZA-licious, a client requested pizza shop.
 Customers can fully customize their pizza orders, add drinks and garlic knots,
 and receive a timestamped receipt for every order.
 
@@ -34,7 +34,7 @@ and receive a timestamped receipt for every order.
   0) Cancel Order
 ```
 
-### Add Pizza Screen
+### Building Your Pizza Screen
 ```
   ------------------------------
   BUILD YOUR PIZZA
@@ -169,7 +169,6 @@ Same method call, completely different behavior -- that is polymorphism.
 
 ## Class Diagram
 
-*(Add your exported class diagram image here)*
 
 ```
 Pizza  <--- MargheritaPizza
